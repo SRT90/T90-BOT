@@ -11,12 +11,12 @@ const CFonts  = require('cfonts')
   colors: ['green'],
 });*/
 
-CFonts.say('T90', {
+CFonts.say('TURBO', {
   font: 'pallet',
   align: 'center',
   gradient: ['red', 'magenta']
 })
-CFonts.say(`T-bot By T90`, {
+CFonts.say(`turbo-bot By TURBO`, {
   font: 'console',
   align: 'center',
   colors: ['yellow']
